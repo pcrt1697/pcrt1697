@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🛠️ Working on <a href="https://github.com/pcrt1697/dmdoc-python">dmdoc-python</a><br>📚 I'm currently learning: Django, GraphQL</p>
+<p align="left">🛠️ Working on <a href="https://github.com/pcrt1697/softgraph">dmdoc-python</a><br>📚 I'm currently learning: Django, GraphQL</p>
 
 ###
 
