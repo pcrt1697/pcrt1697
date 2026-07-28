@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🛠️ Working on <a href="https://github.com/pcrt1697/softgraph">softgraph</a><br>📚 I'm currently learning: Django, GraphQL</p>
+<p align="left">🛠️ Working on <a href="https://github.com/pcrt1697/ristops">RistOps</a><br>📚 I'm currently learning: TypeScript, Redis</p>
 
 ###
 
@@ -34,3 +34,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-D71F00?style=plastic&logo=sqlalchemy&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)
+
