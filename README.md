@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🛠️ Working on <a href="https://github.com/pcrt1697/ristops">RistOps</a><br>📚 I'm currently learning: TypeScript, Redis</p>
+<p align="left">🛠️ Working on <a href="https://github.com/pcrt1697/ristops">ristops</a><br>📚 I'm currently learning: TypeScript, Redis</p>
 
 ###
 
